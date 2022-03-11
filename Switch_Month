@@ -1,0 +1,21 @@
+public static void main(String[] args) {
+		// specifying month
+		int month=11;
+		String monthString="";
+		//switch statement
+		switch(month) {
+		case 1: monthString="1-January";
+		break;
+		case 2: monthString="2-February";
+		break;
+		case 3: monthString="3-March";
+		break;
+		case 4: monthString="4-April";
+		break;
+		case 5: monthString="5-May";
+		break;
+		case 6: monthString="6-June";
+		break;
+		case 7: monthString="7-July";
+		break;
+	
