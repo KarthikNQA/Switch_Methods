@@ -14,3 +14,9 @@ public static void main(String[] args) {
 				else if (day  == 3) {
 					System.out.println("Wednesday");
 		}
+	else if (day== 4) {
+					System.out.println("Thursday");
+				}
+				else if (day ==5) {
+					System.out.println("Friday");
+				}
