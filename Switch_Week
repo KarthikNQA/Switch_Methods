@@ -20,3 +20,8 @@ public static void main(String[] args) {
 				else if (day ==5) {
 					System.out.println("Friday");
 				}
+	else 
+					System.out.println("Saturday");
+	}
+
+}
